@@ -2,6 +2,8 @@
 description: "Refactor selected code to project conventions without changing behavior"
 ---
 
+# Refactor
+
 Refactor the following (selection, file, or description): $ARGUMENTS
 
 Goal: improve clarity and alignment with project conventions **without** changing

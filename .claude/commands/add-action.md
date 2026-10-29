@@ -2,6 +2,8 @@
 description: "Add a new Action variant through types → reducer → creator → test"
 ---
 
+# Add Action
+
 Add a new store action for: $ARGUMENTS
 
 Follow the golden path and project rules in `.cursor/rules/` (architecture,
